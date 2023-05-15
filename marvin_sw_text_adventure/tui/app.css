@@ -1,0 +1,18 @@
+Screen {
+  align: center middle;
+  layers: main footer;
+}
+
+Sidebar {
+  height: 100vh;
+  width: auto;
+  min-width: 20;
+  background: $secondary-background-darken-2;
+  dock: left;
+  margin-right: 1;
+  layer: main;
+}
+
+Footer {
+  layer: footer;
+}

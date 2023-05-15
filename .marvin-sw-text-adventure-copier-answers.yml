@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 992464f
+_src_path: /home/waylon/git/pytool-template
+author_github: waylonwalker
+author_name: Waylon Walker
+description: A text adventure game using @askmarvinai
+package_name: marvin-sw-text-adventure
+package_title: Marvin Star Wars Text Adventure
+package_title_input: Marvin Star Wars Text Adventure
+python_package: marvin_sw_text_adventure
+
