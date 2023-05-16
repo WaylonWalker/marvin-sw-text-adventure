@@ -58,19 +58,7 @@ dependencies = [
   "black",
 ]
 [tool.hatch.envs.default.scripts]
-test = "coverage run -m pytest"
-cov = "coverage-rich"
-lint = "ruff marvin_sw_text_adventure"
-format = "black marvin_sw_text_adventure"
-format-check = "black --check marvin_sw_text_adventure"
-build-docs = "markata build"
-lint-test = [
- "lint",
- "format-check",
- "test",
- "cov",
-]
-test-lint = "lint-test"
+game = 'marvin-sw-text-adventure game run'
 
 [[tool.hatch.envs.test.matrix]]
 python = ["37", "38", "39", "310", "311"]
