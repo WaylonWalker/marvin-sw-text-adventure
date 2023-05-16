@@ -1,8 +1,10 @@
 from marvin import ai_fn
+from rich.table import Table
 
 import pydantic
 from pydantic import Field
 from typing import List, Tuple
+from rich.panel import Panel
 from rich.prompt import Prompt
 
 from marvin_sw_text_adventure.console import console
@@ -24,13 +26,31 @@ class Mission(pydantic.BaseModel):
     leader: str = Field(..., description='The name of the leader of the mission')
     year: int = Field(..., description='The year of the mission')
     description: str = Field(
-        ..., description='The description of the brand new never before heard of star wars mission')
+        ..., description='The description of the brand new never before heard of star wars mission with important words surrounded by [b][/b]')
     risk: int = Field(...,
                       description='The risk of the mission in health the character will loose')
     reward: int = Field(...,
                         description='The reward of the mission in imperial credits')
     image_prompt: str = Field(...,
                               description='An ai image generator prompt of the mission')
+
+    @property
+    def stats(self) -> Table:
+        table = Table(title=self.name, show_edge=False, show_header=False)
+        # table = Table(show_header=False)
+        table.add_row('place', self.place)
+        table.add_row('year', str(self.year))
+        table.add_row('risk', f'{self.risk} hp')
+        table.add_row('reward', f'{self.reward} credits')
+        table.add_row('leader', self.leader)
+
+        return table
+
+    @property
+    def describe(self) -> str:
+        table = Table(show_header=False)
+        table.add_row(self.stats, self.description)
+        return table
 
 
 class MissionResult(pydantic.BaseModel):
@@ -49,6 +69,8 @@ class MissionResult(pydantic.BaseModel):
 
 class Ship(pydantic.BaseModel):
     name: str = Field(..., description='The name of the ship')
+    description: str = Field(..., description='The description of the ship')
+    capacity: int = Field(..., description='The capacity of the ship')
     ship_type: str = Field(..., description='The type of the ship')
     year_built: int = Field(..., description='The year built of the ship')
     capacity: int = Field(..., description='The capacity of the ship')
@@ -56,6 +78,20 @@ class Ship(pydantic.BaseModel):
     fuel_level: int = Field(..., description='The fuel level of the ship')
     image_prompt: str = Field(...,
                               description='An ai image generator prompt of the mission')
+
+    @property
+    def stats(self) -> Table:
+        table = Table(title=self.name, show_edge=False, show_header=False)
+        table.add_row('year built', str(self.year_built))
+        table.add_row('capacity', str(self.capacity))
+        table.add_row('fuel level', str(self.fuel_level))
+        return table
+
+    @property
+    def describe(self):
+        table = Table(show_header=False, show_edge=False)
+        table.add_row(self.stats, self.description)
+        return table
 
 
 class StarWarsCharacter(pydantic.BaseModel):
@@ -86,18 +122,37 @@ class StarWarsCharacter(pydantic.BaseModel):
     previous_missions: List[Tuple[Mission, MissionResult]] = Field(
         [], description='The previous missions of the character')
 
+    @property
+    def stats(self) -> Table:
+        table = Table(title=self.name, show_edge=False, show_header=False)
+        # table = Table(show_header=False)
+        table.add_row('health', str(self.health))
+        table.add_row('imperial credits', str(self.imperial_credits))
+        table.add_row('fuel level', str(self.ship.fuel_level))
+        return table
 
-@ai_fn
+    @property
+    def describe(self):
+        table = Table(show_header=False, show_edge=False)
+        table.add_row(self.stats, self.backstory)
+        table.add_row()
+        table.add_row(self.ship.stats, self.ship.description)
+        table.add_row()
+        table.add_row(self.mission.stats, self.mission.description)
+        return Panel(table, title=f'{self.name}\'s Mission Card', title_align='left', )
+
+
+@ ai_fn
 def did_complete_mission(character: StarWarsCharacter, action: str) -> MissionResult:
     "check if a character completed the mission or if they failed"
 
 
-@ai_fn
+@ ai_fn
 def get_next_mission(character: StarWarsCharacter, action: str, last_mission_success: bool) -> Mission:
     """given a character, their action and the last mission success, return the next mission"""
 
 
-@ai_fn
+@ ai_fn
 def create_character() -> StarWarsCharacter:
     "create a new character"
 
@@ -108,19 +163,14 @@ def game():
     prompt = Prompt()
 
     character = create_character()
-    console.print(character)
 
     while character.health > 0 and character.imperial_credits > 0 and character.ship.fuel_level > 0:
-        console.print('Your character status is'.center(50, '-'))
-        console.print(f'health: {character.health}')
-        console.print(f'imperial credits: {character.imperial_credits}')
-        console.print(f'fuel level: {character.ship.fuel_level}')
-        console.print()
-        console.print('Your current mission is'.center(50, '-'))
-        console.print(character.mission)
-        action = prompt.ask('What would you like to do? ')
+        console.print(character.describe)
+        action = prompt.ask('What do you do ❯')
         result = did_complete_mission(character, action)
         character.previous_missions.append((character.mission, result))
+        # keep only the last 5 missions
+        character.previous_missions = character.previous_missions[-5:]
         character.imperial_credits -= result.imperial_credits_spent
         character.imperial_credits += result.imperial_credits_earned
         character.health -= result.health_lost
