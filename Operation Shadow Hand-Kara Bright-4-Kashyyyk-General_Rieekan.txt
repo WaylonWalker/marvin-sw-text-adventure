@@ -1,0 +1,626 @@
+[19:45:13] Starting game                                              game.py:30
+generating your character
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│        Kara Bright                    │ Kara Bright was born in the          │
+│   health           │ 100              │ bustling city planet of Coruscant.   │
+│   imperial credits │ 500              │ Growing up, she witnessed the        │
+│   fuel level       │ 100              │ corruption and greed of the          │
+│                                       │ Imperial government. Despite the     │
+│                                       │ danger, she joined an underground    │
+│                                       │ resistance movement at a young age,  │
+│                                       │ fighting to overthrow the            │
+│                                       │ oppressive regime. She quickly rose  │
+│                                       │ through the ranks and became a       │
+│                                       │ skilled fighter and leader. Her      │
+│                                       │ ultimate goal is to bring peace and  │
+│                                       │ justice to the galaxy.               │
+│                                       │                                      │
+│       Firefly                         │ A small, speedy ship with enough     │
+│   year built │ 10                     │ cargo space to transport a small     │
+│   capacity   │ 4                      │ crew and their gear.                 │
+│   fuel level │ 100                    │                                      │
+│                                       │                                      │
+│         Operation Shadow Hand         │ The Empire is developing a new       │
+│   place  │ Imperial Base on Kashyyyk  │ weapon on Kashyyyk. We need to       │
+│   year   │ 4                          │ infiltrate the base and destroy it   │
+│   risk   │ 50 hp                      │ before they can use it against the   │
+│   reward │ 1000 credits               │ Rebellion. Watch out for Imperial    │
+│   leader │ General Rieekan            │ troops and dangerous wildlife on     │
+│                                       │ the planet.                          │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara gathers her crew in the Firefly, preparing to depart for their mission. 
+Jaxen, Zora, and Galen all board the ship, ready for whatever challenges lie 
+ahead. The ship's engines hum to life as Kara takes her place in the pilot seat,
+ready to take off.
+You earned 0 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│        Kara Bright                   │ Kara Bright was born in the bustling  │
+│   health           │ 100             │ city planet of Coruscant. Growing     │
+│   imperial credits │ 500             │ up, she witnessed the corruption and  │
+│   fuel level       │ 95              │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 95                    │                                       │
+│                                      │                                       │
+│       Operation Shadow Hand II       │ The Empire has a new weapon           │
+│   place  │ Imperial Base on          │ prototype on Coruscant. We need to    │
+│          │ Coruscant                 │ gather intel and sabotage the weapon  │
+│   year   │ 5                         │ before it goes into production.       │
+│   risk   │ 60 hp                     │ Beware of the Imperial forces and     │
+│   reward │ 1500 credits              │ their advanced security measures.     │
+│   leader │ Admiral Ackbar            │                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara and her team navigate the winding back alleys of Coruscant, using their 
+knowledge of the city to evade Imperial patrols. They gather valuable intel on 
+the Imperial base's security measures and the location of the new weapon 
+prototype. With their mission complete, they return to their ship and prepare 
+for the next phase of their operation.
+You earned 200 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│        Kara Bright                   │ Kara Bright was born in the bustling  │
+│   health           │ 100             │ city planet of Coruscant. Growing     │
+│   imperial credits │ 700             │ up, she witnessed the corruption and  │
+│   fuel level       │ 93              │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 93                    │                                       │
+│                                      │                                       │
+│       Operation Shadow Hand III      │ Our previous sabotage of the          │
+│   place  │ Imperial Base on          │ Empire's weapon prototype has not     │
+│          │ Coruscant                 │ gone unnoticed. They have increased   │
+│   year   │ 6                         │ security and are on high alert. We    │
+│   risk   │ 75 hp                     │ need to infiltrate the base again     │
+│   reward │ 2000 credits              │ and gather intel on their next move.  │
+│   leader │ General Madine            │ Be careful and stay alert.            │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara tries to gather some stealth weapons and gear to go unnoticed by security. 
+However, due to the increased alert level, she is unable to find any reliable 
+sources. She is forced to use what she has and rely on her team's skills to 
+infiltrate the base. During the mission, they encounter heavy resistance and 
+sustain some injuries, but they are able to gather some intel before making a 
+daring escape.
+You earned 0 imperial credits
+You spent 500 imperial credits
+You gained 0 health
+You lost 25 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│        Kara Bright                   │ Kara Bright was born in the bustling  │
+│   health           │ 75              │ city planet of Coruscant. Growing     │
+│   imperial credits │ 200             │ up, she witnessed the corruption and  │
+│   fuel level       │ 83              │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 83                    │                                       │
+│                                      │                                       │
+│       Operation Shadow Hand IV       │ The Empire is testing a new weapon    │
+│   place  │ Imperial Base on Nar      │ on Nar Shaddaa. We need to            │
+│          │ Shaddaa                   │ infiltrate the base and gather intel  │
+│   year   │ 7                         │ on the weapon's capabilities and      │
+│   risk   │ 80 hp                     │ weaknesses. Avoid detection and take  │
+│   reward │ 2500 credits              │ out any Imperial troops that stand    │
+│   leader │ Captain Rex               │ in our way. May the Force be with     │
+│                                      │ us.                                   │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara and her team successfully infiltrate the Imperial base on Nar Shaddaa, 
+using their skills and experience to avoid detection and take out any Imperial 
+troops in their way. They gather valuable intel on the new weapon's capabilities
+and weaknesses, and transmit the information back to the Rebel Alliance. During 
+the mission, they sustain some injuries and lose some health, but they are 
+ultimately successful in completing their objective.
+You earned 500 imperial credits
+You spent 400 imperial credits
+You gained 0 health
+You lost 30 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│        Kara Bright                   │ Kara Bright was born in the bustling  │
+│   health           │ 45              │ city planet of Coruscant. Growing     │
+│   imperial credits │ 300             │ up, she witnessed the corruption and  │
+│   fuel level       │ 68              │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 68                    │                                       │
+│                                      │                                       │
+│        Operation Shadow Hand V       │ The Empire is developing a new        │
+│   place  │ Imperial Base on          │ weapon prototype on Coruscant. We     │
+│          │ Coruscant                 │ need to infiltrate the base and       │
+│   year   │ 8                         │ gather intel on the weapon's          │
+│   risk   │ 70 hp                     │ capabilities and weaknesses. Stay     │
+│   reward │ 2000 credits              │ alert and avoid detection, as the     │
+│   leader │ General Madine            │ Empire has increased security         │
+│                                      │ measures since our last visit.        │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara tries to fuel up the Firefly, but finds that the nearest refueling station 
+is out of order. She searches for another station, but is unable to find one in 
+time. As a result, the Firefly remains low on fuel and unable to take off. Kara 
+also tries to find a place to heal, but is unable to find any medical facilities
+nearby. She decides to wait until the next mission to tend to any injuries.
+You earned 0 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│        Kara Bright                   │ Kara Bright was born in the bustling  │
+│   health           │ 45              │ city planet of Coruscant. Growing     │
+│   imperial credits │ 300             │ up, she witnessed the corruption and  │
+│   fuel level       │ 68              │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 68                    │                                       │
+│                                      │                                       │
+│       Operation Shadow Hand VI       │ The Empire has a new research         │
+│   place  │ Imperial Research         │ facility on Mustafar, where they are  │
+│          │ Facility on Mustafar      │ developing a new type of weapon. We   │
+│   year   │ 9                         │ need to infiltrate the facility and   │
+│   risk   │ 85 hp                     │ gather intel on the weapon's          │
+│   reward │ 2500 credits              │ capabilities and weaknesses. Beware   │
+│   leader │ General Crix Madine       │ of the hostile environment and the    │
+│                                      │ Imperial forces guarding the          │
+│                                      │ facility. May the force be with us.   │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara tries to recruit some fresh help before leaving Coruscant. She reaches out 
+to her contacts and tries to find some skilled pilots and fighters to join her 
+team. However, due to the recent increase in Imperial activity on the planet, 
+most of her contacts are either lying low or have already been captured by the 
+Empire. Kara decides to leave Coruscant with her current team and resources, 
+hoping that they will be enough to complete the mission.
+You earned 0 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│        Kara Bright                    │ Kara Bright was born in the          │
+│   health           │ 45               │ bustling city planet of Coruscant.   │
+│   imperial credits │ 300              │ Growing up, she witnessed the        │
+│   fuel level       │ 63               │ corruption and greed of the          │
+│                                       │ Imperial government. Despite the     │
+│                                       │ danger, she joined an underground    │
+│                                       │ resistance movement at a young age,  │
+│                                       │ fighting to overthrow the            │
+│                                       │ oppressive regime. She quickly rose  │
+│                                       │ through the ranks and became a       │
+│                                       │ skilled fighter and leader. Her      │
+│                                       │ ultimate goal is to bring peace and  │
+│                                       │ justice to the galaxy.               │
+│                                       │                                      │
+│       Firefly                         │ A small, speedy ship with enough     │
+│   year built │ 10                     │ cargo space to transport a small     │
+│   capacity   │ 4                      │ crew and their gear.                 │
+│   fuel level │ 63                     │                                      │
+│                                       │                                      │
+│       Operation Shadow Hand VII       │ The Empire is building a new type    │
+│   place  │ Imperial Shipyard on Kuat  │ of Star Destroyer at the shipyard    │
+│   year   │ 10                         │ on Kuat. We need to infiltrate the   │
+│   risk   │ 90 hp                      │ shipyard and gather intel on the     │
+│   reward │ 3000 credits               │ ship's capabilities and weaknesses.  │
+│   leader │ General Hera Syndulla      │ Beware of the heavily armed          │
+│                                       │ Imperial forces and the dangerous    │
+│                                       │ environment of the shipyard. May     │
+│                                       │ the force be with us.                │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara and her team successfully infiltrate the Imperial Shipyard on Kuat, using 
+their skills and experience to avoid detection and take out any Imperial troops 
+in their way. However, they are unable to siphon fuel from any of the ships in 
+the shipyard, as the Imperial forces have taken extra precautions to secure 
+their resources. Despite this setback, Kara and her team gather valuable intel 
+on the new type of Star Destroyer being built at the shipyard, and transmit the 
+information back to the Rebel Alliance. During the mission, they sustain some 
+injuries and lose some health, but they are ultimately successful in completing 
+their objective.
+You earned 0 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│        Kara Bright                   │ Kara Bright was born in the bustling  │
+│   health           │ 45              │ city planet of Coruscant. Growing     │
+│   imperial credits │ 300             │ up, she witnessed the corruption and  │
+│   fuel level       │ 38              │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 38                    │                                       │
+│                                      │                                       │
+│      Operation Shadow Hand VIII      │ The Empire has an important fuel      │
+│   place  │ Imperial Fuel Depot on    │ depot on Nar Shaddaa that supplies    │
+│          │ Nar Shaddaa               │ their ships and bases in the area.    │
+│   year   │ 11                        │ We need to infiltrate the depot and   │
+│   risk   │ 85 hp                     │ siphon as much fuel as we can, to     │
+│   reward │ 3500 credits              │ weaken the Empire's position and      │
+│   leader │ Admiral Gial Ackbar       │ increase our resources. Beware of     │
+│                                      │ the heavily armed Imperial forces     │
+│                                      │ guarding the depot, and stay alert    │
+│                                      │ for any unexpected obstacles.         │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara and her team successfully infiltrate the Imperial Fuel Depot on Nar 
+Shaddaa, using their skills and experience to avoid detection and take out any 
+Imperial troops in their way. They set off a small explosive on the fuel tank 
+and siphon as much fuel as they can, to weaken the Empire's position and 
+increase the Rebel Alliance's resources. During the mission, they sustain some 
+injuries and lose some health, but they are ultimately successful in completing 
+their objective.
+You earned 3500 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 20 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│         Kara Bright                  │ Kara Bright was born in the bustling  │
+│   health           │ 25              │ city planet of Coruscant. Growing     │
+│   imperial credits │ 3800            │ up, she witnessed the corruption and  │
+│   fuel level       │ 18              │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 18                    │                                       │
+│                                      │                                       │
+│       Operation Shadow Hand IX       │ The Empire is developing a new type   │
+│   place  │ Imperial Research         │ of planetary shield generator on      │
+│          │ Facility on Scarif        │ Scarif. We need to infiltrate the     │
+│   year   │ 12                        │ facility and gather intel on the      │
+│   risk   │ 90 hp                     │ generator's capabilities and          │
+│   reward │ 4000 credits              │ weaknesses. The facility is heavily   │
+│   leader │ General Lando Calrissian  │ guarded, so we need to take a         │
+│                                      │ stealthy approach and avoid           │
+│                                      │ detection. May the Force be with us.  │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara and her team infiltrated the Imperial Research Facility on Scarif, using 
+their knowledge of the weapon technology to leverage its weaknesses and gain 
+access to the intel they needed. They successfully transmitted the information 
+back to the Rebel Alliance, earning a large reward of 6000 imperial credits. 
+During the mission, they sustained some injuries and lost some health, but they 
+were ultimately successful in completing their objective.
+You earned 6000 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 15 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│         Kara Bright                   │ Kara Bright was born in the          │
+│   health           │ 10               │ bustling city planet of Coruscant.   │
+│   imperial credits │ 9800             │ Growing up, she witnessed the        │
+│   fuel level       │ 3                │ corruption and greed of the          │
+│                                       │ Imperial government. Despite the     │
+│                                       │ danger, she joined an underground    │
+│                                       │ resistance movement at a young age,  │
+│                                       │ fighting to overthrow the            │
+│                                       │ oppressive regime. She quickly rose  │
+│                                       │ through the ranks and became a       │
+│                                       │ skilled fighter and leader. Her      │
+│                                       │ ultimate goal is to bring peace and  │
+│                                       │ justice to the galaxy.               │
+│                                       │                                      │
+│       Firefly                         │ A small, speedy ship with enough     │
+│   year built │ 10                     │ cargo space to transport a small     │
+│   capacity   │ 4                      │ crew and their gear.                 │
+│   fuel level │ 3                      │                                      │
+│                                       │                                      │
+│        Operation Shadow Hand X        │ The Empire is storing a new type of  │
+│   place  │ Imperial Weapons Facility  │ weapon at their facility on Eadu.    │
+│          │ on Eadu                    │ We need to infiltrate the facility   │
+│   year   │ 13                         │ and gather intel on the weapon's     │
+│   risk   │ 95 hp                      │ capabilities and weaknesses. Beware  │
+│   reward │ 4500 credits               │ of the heavily armed Imperial        │
+│   leader │ Captain Cassian Andor      │ forces guarding the facility, and    │
+│                                       │ stay alert for any unexpected        │
+│                                       │ obstacles. We can leverage the       │
+│                                       │ weaknesses of the technology we      │
+│                                       │ learned about in our previous        │
+│                                       │ mission to gain an advantage. May    │
+│                                       │ the Force be with us.                │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara recognizes the importance of celebrating small victories, but also 
+understands the risk of being too loose with imperial credits. Instead of buying
+a round for everyone, she puts the credits towards purchasing additional 
+supplies and upgrades for the Firefly. She wants to ensure that her team is 
+fully prepared for the next mission, and that they have the best possible chance
+of success.
+You earned 0 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│         Kara Bright                  │ Kara Bright was born in the bustling  │
+│   health           │ 10              │ city planet of Coruscant. Growing     │
+│   imperial credits │ 9800            │ up, she witnessed the corruption and  │
+│   fuel level       │ 3               │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 3                     │                                       │
+│                                      │                                       │
+│          Operation Nightfall         │ The Empire is hosting a high-stakes   │
+│   place  │ Imperial Casino on        │ gambling event at their casino on     │
+│          │ Coruscant                 │ Coruscant, with top Imperial          │
+│   year   │ 13                        │ officers and wealthy allies in        │
+│   risk   │ 85 hp                     │ attendance. We need to infiltrate     │
+│   reward │ 5000 credits              │ the casino and gather intel on the    │
+│   leader │ Lando Calrissian          │ Empire's plans and top players.       │
+│                                      │ Beware of the heavily armed Imperial  │
+│                                      │ forces guarding the casino, and stay  │
+│                                      │ alert for any unexpected obstacles.   │
+│                                      │ We can leverage the skills and        │
+│                                      │ experience of our team to gain an     │
+│                                      │ advantage. May the Force be with us.  │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara and her team go to the local cantina to rest and recover. They spend 10 
+imperial credits on drinks and food, and use the opportunity to mingle with the 
+locals and gather intel on Imperial activity in the area. Kara takes advantage 
+of the downtime to recharge her health and prepare for the upcoming mission.
+You earned 0 imperial credits
+You spent 10 imperial credits
+You gained 5 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│         Kara Bright              │ Kara Bright was born in the bustling      │
+│   health           │ 15          │ city planet of Coruscant. Growing up,     │
+│   imperial credits │ 9790        │ she witnessed the corruption and greed    │
+│   fuel level       │ 3           │ of the Imperial government. Despite the   │
+│                                  │ danger, she joined an underground         │
+│                                  │ resistance movement at a young age,       │
+│                                  │ fighting to overthrow the oppressive      │
+│                                  │ regime. She quickly rose through the      │
+│                                  │ ranks and became a skilled fighter and    │
+│                                  │ leader. Her ultimate goal is to bring     │
+│                                  │ peace and justice to the galaxy.          │
+│                                  │                                           │
+│       Firefly                    │ A small, speedy ship with enough cargo    │
+│   year built │ 10                │ space to transport a small crew and       │
+│   capacity   │ 4                 │ their gear.                               │
+│   fuel level │ 3                 │                                           │
+│                                  │                                           │
+│  Rest and Recovery at the Local  │ Kara and her team go to the local         │
+│              Cantina             │ cantina to rest and recover. They take    │
+│   place  │ Cantina on Coruscant  │ advantage of the downtime to recharge     │
+│   year   │ 13                    │ their health and prepare for the          │
+│   risk   │ 0 hp                  │ upcoming mission. While there, they       │
+│   reward │ 0 credits             │ mingle with the locals and gather intel   │
+│   leader │ Kara Bright           │ on Imperial activity in the area.         │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara successfully finds the right clothes for Operation Nightfall, blending in 
+seamlessly with the wealthy guests at the Imperial casino. She spends the rest 
+of the day resting and preparing for the upcoming mission, ensuring that she is 
+in top physical and mental condition.
+You earned 0 imperial credits
+You spent 0 imperial credits
+You gained 1 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│         Kara Bright                  │ Kara Bright was born in the bustling  │
+│   health           │ 16              │ city planet of Coruscant. Growing     │
+│   imperial credits │ 9790            │ up, she witnessed the corruption and  │
+│   fuel level       │ 3               │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 3                     │                                       │
+│                                      │                                       │
+│          Operation Nightfall         │ The Empire is hosting a high-stakes   │
+│   place  │ Imperial Casino on        │ gambling event at their casino on     │
+│          │ Coruscant                 │ Coruscant, with top Imperial          │
+│   year   │ 13                        │ officers and wealthy allies in        │
+│   risk   │ 85 hp                     │ attendance. We need to infiltrate     │
+│   reward │ 5000 credits              │ the casino and gather intel on the    │
+│   leader │ Lando Calrissian          │ Empire's plans and top players.       │
+│                                      │ Beware of the heavily armed Imperial  │
+│                                      │ forces guarding the casino, and stay  │
+│                                      │ alert for any unexpected obstacles.   │
+│                                      │ We can leverage the skills and        │
+│                                      │ experience of our team to gain an     │
+│                                      │ advantage. May the Force be with us.  │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara places a large bet at the Imperial Casino, drawing the attention of wealthy
+allies and Imperial officers. She uses her charm and wit to blend in and gather 
+valuable intel on the Empire's plans and top players. The bet pays off, as she 
+gains the trust of key figures and earns a reputation as a high-roller. However,
+she spends a large amount of Imperial credits, which could have consequences in 
+the future.
+You earned 0 imperial credits
+You spent 1000 imperial credits
+You gained 0 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│         Kara Bright                  │ Kara Bright was born in the bustling  │
+│   health           │ 16              │ city planet of Coruscant. Growing     │
+│   imperial credits │ 8790            │ up, she witnessed the corruption and  │
+│   fuel level       │ 3               │ greed of the Imperial government.     │
+│                                      │ Despite the danger, she joined an     │
+│                                      │ underground resistance movement at a  │
+│                                      │ young age, fighting to overthrow the  │
+│                                      │ oppressive regime. She quickly rose   │
+│                                      │ through the ranks and became a        │
+│                                      │ skilled fighter and leader. Her       │
+│                                      │ ultimate goal is to bring peace and   │
+│                                      │ justice to the galaxy.                │
+│                                      │                                       │
+│       Firefly                        │ A small, speedy ship with enough      │
+│   year built │ 10                    │ cargo space to transport a small      │
+│   capacity   │ 4                     │ crew and their gear.                  │
+│   fuel level │ 3                     │                                       │
+│                                      │                                       │
+│         Operation High-Stakes        │ The Rebel Alliance has received       │
+│   place  │ Casino Royale on          │ intel that the Empire is hosting a    │
+│          │ Chandrila                 │ high-stakes gambling event at the     │
+│   year   │ 14                        │ Casino Royale on Chandrila. Imperial  │
+│   risk   │ 90 hp                     │ officers and wealthy allies will be   │
+│   reward │ 10000 credits             │ in attendance, making it an ideal     │
+│   leader │ Lando Calrissian          │ opportunity to gather valuable        │
+│                                      │ information. Your mission is to       │
+│                                      │ infiltrate the casino and blend in    │
+│                                      │ with the wealthy guests. Place a      │
+│                                      │ large bet to draw attention and gain  │
+│                                      │ the trust of key figures. Stay alert  │
+│                                      │ for any unexpected obstacles and be   │
+│                                      │ prepared to improvise. May the Force  │
+│                                      │ be with you.                          │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara declines any further gambling events, wary of the high cost. She focuses 
+instead on supporting her team and preparing for their next mission.
+You earned 0 imperial credits
+You spent 0 imperial credits
+You gained 0 health
+You lost 0 health
+╭─ Kara Bright's Mission Card ─────────────────────────────────────────────────╮
+│         Kara Bright                   │ Kara Bright was born in the          │
+│   health           │ 16               │ bustling city planet of Coruscant.   │
+│   imperial credits │ 8790             │ Growing up, she witnessed the        │
+│   fuel level       │ 3                │ corruption and greed of the          │
+│                                       │ Imperial government. Despite the     │
+│                                       │ danger, she joined an underground    │
+│                                       │ resistance movement at a young age,  │
+│                                       │ fighting to overthrow the            │
+│                                       │ oppressive regime. She quickly rose  │
+│                                       │ through the ranks and became a       │
+│                                       │ skilled fighter and leader. Her      │
+│                                       │ ultimate goal is to bring peace and  │
+│                                       │ justice to the galaxy.               │
+│                                       │                                      │
+│       Firefly                         │ A small, speedy ship with enough     │
+│   year built │ 10                     │ cargo space to transport a small     │
+│   capacity   │ 4                      │ crew and their gear.                 │
+│   fuel level │ 3                      │                                      │
+│                                       │                                      │
+│          Operation High-Risk          │ The Rebel Alliance has learned that  │
+│   place  │ Imperial Prison on         │ one of our most valuable assets has  │
+│          │ Mustafar                   │ been captured by the Empire and is   │
+│   year   │ 14                         │ being held at their high-security    │
+│   risk   │ 95 hp                      │ prison on Mustafar. Your mission is  │
+│   reward │ 15000 credits              │ to infiltrate the prison and rescue  │
+│   leader │ Mon Mothma                 │ our ally. Beware of the dangerous    │
+│                                       │ terrain and the heavily armed        │
+│                                       │ Imperial forces guarding the         │
+│                                       │ prison. You will need to rely on     │
+│                                       │ your skills and experience to        │
+│                                       │ overcome the obstacles and complete  │
+│                                       │ the mission. May the Force be with   │
+│                                       │ you.                                 │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Your mission has been completed
+Kara and her team manage to sneak around to the back of the Imperial Prison 
+undetected. They use a drill to make a hole in the wall and carefully make their
+way inside. However, they encounter unexpected obstacles and end up losing some 
+health in the process. They are forced to retreat before completing the mission,
+having spent 250 Imperial credits on the failed attempt.
+You earned 0 imperial credits
+You spent 250 imperial credits
+You gained 0 health
+You lost 4 health
+You lost all your fuel
