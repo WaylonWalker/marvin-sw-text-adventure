@@ -1,4 +1,3 @@
-from rich.console import Console
 import typer
 
 from marvin_sw_text_adventure.cli.common import verbose_callback
@@ -27,5 +26,6 @@ def run(
     ),
 ):
     from marvin_sw_text_adventure.console import console
+
     console.log("Starting game")
     game_run()

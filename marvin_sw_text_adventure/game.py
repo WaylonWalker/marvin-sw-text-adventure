@@ -1,5 +1,5 @@
-from typing import List, Tuple
 import atexit
+from typing import List, Tuple
 
 from marvin import ai_fn
 import pydantic
@@ -9,6 +9,7 @@ from rich.prompt import Prompt
 from rich.table import Table
 
 from marvin_sw_text_adventure.console import console
+from numpy import character
 
 
 @ai_fn
@@ -201,7 +202,7 @@ def create_character() -> StarWarsCharacter:
 def game():
     console.print("generating your character")
 
-    prompt = Prompt()
+    prompt = Prompt(console=console)
 
     character = create_character()
     game = create_game(character)

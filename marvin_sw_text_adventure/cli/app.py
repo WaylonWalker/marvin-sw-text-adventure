@@ -1,8 +1,8 @@
 import typer
 
 from marvin_sw_text_adventure.cli.common import verbose_callback
-from marvin_sw_text_adventure.console import console
 from marvin_sw_text_adventure.cli.game import game_app
+
 # from marvin_sw_text_adventure.cli.config import config_app
 # from marvin_sw_text_adventure.cli.tui import tui_app
 

@@ -59,6 +59,9 @@ dependencies = [
 ]
 [tool.hatch.envs.default.scripts]
 game = 'marvin-sw-text-adventure game run'
+lint = "ruff marvin_sw_text_adventure"
+fix = "ruff marvin_sw_text_adventure --fix"
+format = "black marvin_sw_text_adventure"
 
 [[tool.hatch.envs.test.matrix]]
 python = ["37", "38", "39", "310", "311"]
